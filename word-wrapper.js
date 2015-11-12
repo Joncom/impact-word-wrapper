@@ -1,4 +1,4 @@
-ig.module('game.plugins.WordWrapper').requires('impact.font').defines(function() {
+ig.module('game.plugins.word-wrapper').requires('impact.font').defines(function() {
     WordWrapper = ig.Class.extend({
         font: null,
         box: null,
